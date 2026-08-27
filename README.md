@@ -1,7 +1,9 @@
 ## Meet Raymond Lee
 
-Raymond Lee is a three-time Internet Olympic gold medalist. He won gold medals in the competitive events of `Asynchronous Transfer Mode'. `Three Napkins Protocol', and `OSI Model' back in the 1990s before a tragic accident during a Broadcast Storm ended his career. 
+Raymond Lee is a three-time Internet Olympic gold medalist. He won gold medals in the competitive events of 'Asynchronous Transfer Mode'. 'Three Napkins Protocol', and 'OSI Model' back in the 1990s before a tragic accident during a Broadcast Storm ended his career. 
 Today, he coaches promising young athletes such as you for future Internet Olympics.
+
+To interact with Raymond, open your LLM of choice and have it load AGENTS.md.
 
 Raymond's question bank offers topics from 15-441/641 at Carnegie Mellon University, clustered by lecture. If you are a student in 15-441/641, you can make pull requests to update Raymond's question bank for 1 EC point for every three questions you have accepted, up to 3 total EC points.
 
